@@ -7,9 +7,9 @@ The objective of this Lab is to create an implementation of a Heap and a Priorit
 
 1.	Make an interface for the PriorityQueue that will be inherited by the classes generated in Task 1 and Task 2.
 2.	The following Methods should be on the class.  And make them pure virtual
-a.	Insert – This will add an item to the priority queue
-b.	DeQueue – This will remove the highest\lowest priority item from the queue 
-c.	PrintPriorityQueue – This will print the items in the queue in priority order and return a string representation as well (so it can be used for testing).  
+*.	Insert – This will add an item to the priority queue
+*.	DeQueue – This will remove the highest\lowest priority item from the queue 
+*.	PrintPriorityQueue – This will print the items in the queue in priority order and return a string representation as well (so it can be used for testing).  
 
 You can add more items if you desire - an IsEmpty seems like a good addition :)
 
