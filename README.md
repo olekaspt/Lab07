@@ -21,7 +21,7 @@ You can add more items if you desire - an IsEmpty seems like a good addition :)
 1.	Create unit Tests for testing the array based implementation, at least 2 per method.
 1.	In the lab report, discuss the advantages and disadvantages of this implementation 
 
-## Task 3  Implement an ArrayBased PriorityQueue
+## Task 3  Implement an HeapBased PriorityQueue
 1.	Create an implementation of Priority Queue using a Heap.  Include the following members:
 *.	Insert – 
 *.	DeQueue – 
