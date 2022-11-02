@@ -7,17 +7,17 @@ The objective of this Lab is to create an implementation of a Heap and a Priorit
 
 1.	Make an interface for the PriorityQueue that will be inherited by the classes generated in Task 1 and Task 2.
 2.	The following Methods should be on the class.  And make them pure virtual
-*.	Insert – This will add an item to the priority queue
-*.	DeQueue – This will remove the highest\lowest priority item from the queue 
-*.	PrintPriorityQueue – This will print the items in the queue in priority order and return a string representation as well (so it can be used for testing).  
+*	Insert – This will add an item to the priority queue
+*	DeQueue – This will remove the highest\lowest priority item from the queue 
+*	PrintPriorityQueue – This will print the items in the queue in priority order and return a string representation as well (so it can be used for testing).  
 
 You can add more items if you desire - an IsEmpty seems like a good addition :)
 
 ## Task 2  Implement an ArrayBased PriorityQueue
 1.	Create an implementation of a Priority Queue using a ArrayBasedQueue that uses brute force sorting.  Include the following members:
-*.	Insert – 
-*.	DeQueue – 
-*.	PrintPriorityQueue –
+*	Insert – 
+*	DeQueue – 
+*	PrintPriorityQueue –
 1.	Create unit Tests for testing the array based implementation, at least 2 per method.
 1.	In the lab report, discuss the advantages and disadvantages of this implementation 
 
@@ -57,12 +57,12 @@ Member3 (opinion)	20	     40	     40
 ## Lab Submission
 
 1.	Write a lab report including the requested information from the Tasks above.
-2.	Include all source code and CMake file into a tar file
+1.	Include all source code and CMake file into a tar file
 
 Lab Grading:
 1.	25% - Task 1 has been correctly implemented. 
-2.	25% - Task 2 has been correctly implemented. 
-2.	25% - Task 3 has been correctly implemented. 
-3.	25% - Task 4,5 has been correctly implemented.
+1.	25% - Task 2 has been correctly implemented. 
+1.	25% - Task 3 has been correctly implemented. 
+1.	25% - Task 4,5 has been correctly implemented.
 If program fails to compile, 0% will be given for that Task.
 
