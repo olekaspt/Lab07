@@ -18,16 +18,16 @@ You can add more items if you desire - an IsEmpty seems like a good addition :)
 *	Insert – 
 *	DeQueue – 
 *	PrintPriorityQueue –
-1.	Create unit Tests for testing the array based implementation, at least 2 per method.
-1.	In the lab report, discuss the advantages and disadvantages of this implementation 
+2.	Create unit Tests for testing the array based implementation, at least 2 per method.
+3.	In the lab report, discuss the advantages and disadvantages of this implementation 
 
 ## Task 3  Implement an HeapBased PriorityQueue
 1.	Create an implementation of Priority Queue using a Heap.  Include the following members:
 *.	Insert – 
 *.	DeQueue – 
 *.	PrintPriorityQueue –
-1.	Create a unit Tests for testing the Heap based implementation at least 2 per method.
-1.	In the lab report, discuss the advantages and disadvantages of this structure over a standard binary search tree.
+2.	Create a unit Tests for testing the Heap based implementation at least 2 per method.
+3.	In the lab report, discuss the advantages and disadvantages of this structure over a standard binary search tree.
 
 ## Task 4  Evaluate implementations
 1.	Evaluate the performance of adding 500, 1,000, 2,000, and 5,000 random items to each of the ADT  built in this using the same techniques as the sorting lab.  Make sure the items being added are the same for each of the structures.  In the lab report, graph the results and discuss which structure performs which.
