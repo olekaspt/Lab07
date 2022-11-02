@@ -26,9 +26,9 @@ You can add more items if you desire - an IsEmpty seems like a good addition :)
 
 ## Task 3  Implement an HeapBased PriorityQueue
 1.	Create an implementation of Priority Queue using a Heap.  Include the following members:
-*.	Insert – 
-*.	DeQueue – 
-*.	PrintPriorityQueue –
+*	Insert – 
+*	DeQueue – 
+*	PrintPriorityQueue –
 2.	Create a unit Tests for testing the Heap based implementation at least 2 per method.
 3.	In the lab report, discuss the advantages and disadvantages of this structure over a standard binary search tree.
 
