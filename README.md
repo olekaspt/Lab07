@@ -3,6 +3,9 @@
 ## Objective
 The objective of this Lab is to create an implementation of a Heap and a Priority Queue.
 
+
+For this lab you will either make a MaxPriorityQueue or MinPriorityQueue.  I don't care which, as long as you are consistent in the lab.
+
 ## Task 1  Define Interface for PriorityQueue
 
 1.	Make an interface for the PriorityQueue that will be inherited by the classes generated in Task 1 and Task 2.
