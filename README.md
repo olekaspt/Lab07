@@ -20,7 +20,7 @@ For this lab you will either make a MaxPriorityQueue or MinPriorityQueue.  I don
 You can add more items if you desire - an IsEmpty seems like a good addition :)
 
 ## Task 2  Implement an ArrayBased PriorityQueue
-1.	Create an implementation of a Priority Queue using a ArrayBasedQueue that uses brute force sorting.  Include the following members:
+1.	Create an implementation of a Priority Queue using a ArrayBasedQueue that uses brute force sorting.  You can either sort on Insert or on Dequee.  Using something like InsertionSort might make sense (but to be honest any of the sorting algorithms you did should be fine. Include the following members:
 *	Insert – 
 *	DeQueue – 
 *	PrintPriorityQueue –
