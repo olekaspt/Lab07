@@ -11,8 +11,8 @@ For this lab you will either make a MaxPriorityQueue or MinPriorityQueue.  I don
 
 ## Task 1  Define Interface for PriorityQueue
 
-1.	Make an interface for the PriorityQueue that will be inherited by the classes generated in Task 1 and Task 2.
-2.	The following Methods should be on the class.  And make them pure virtual
+1.	Make an interface for the PriorityQueue that will be inherited by the classes generated in Task 1 and Task 2.  This must be a abstract classs class.
+2.	The following Methods should be on the class.  And make them pure virtual.
 *	Insert – This will add an item to the priority queue
 *	DeQueue – This will remove the highest\lowest priority item from the queue 
 *	PrintPriorityQueue – This will print the items in the queue in priority order and return a string representation as well (so it can be used for testing).  
