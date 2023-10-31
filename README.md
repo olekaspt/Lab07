@@ -6,6 +6,8 @@ https://github.com/olekaspt/LabStandards/blob/main/README.md
 ## Objective
 The objective of this Lab is to create an implementation of a Heap and a Priority Queue.
 
+NO TEMPLATES or smart pointers is needed for this lab.  You can easily do this with arrays solely. 
+
 
 For this lab you will either make a MaxPriorityQueue or MinPriorityQueue.  I don't care which, as long as you are consistent in the lab.
 
@@ -20,7 +22,9 @@ For this lab you will either make a MaxPriorityQueue or MinPriorityQueue.  I don
 You can add more items if you desire - an IsEmpty seems like a good addition :)
 
 ## Task 2  Implement an ArrayBased PriorityQueue
-1.	Create an implementation of a Priority Queue using a ArrayBasedQueue that uses brute force sorting.  You can either sort on Insert or on Dequee.  Using something like InsertionSort might make sense (but to be honest any of the sorting algorithms you did should be fine.  Or blindling add it to a vector, but then iterate the vector the find the largest\smallest member, and then remove it from the list. Include the following members:
+1.	Create an implementation of a Priority Queue using a ArrayBasedQueue that uses brute force sorting.  You can either sort on Insert or on Dequee.  Using something like InsertionSort  on adding might make sense (but to be honest any of the sorting algorithms you did should be fine.  Or blindly add it to the array, and then on removal find the largest\smallest value, remove the value and shift the array accordingly.
+
+Include the following members:
 *	Insert – 
 *	DeQueue – 
 *	PrintPriorityQueue –
@@ -28,7 +32,9 @@ You can add more items if you desire - an IsEmpty seems like a good addition :)
 3.	In the lab report, discuss the advantages and disadvantages of this implementation 
 
 ## Task 3  Implement an HeapBased PriorityQueue
-1.	Create an implementation of Priority Queue using a Heap.  Include the following members:
+1.	Create an implementation of Priority Queue using a Heap using the array based implementation as discussed in class.
+
+Include the following members:
 *	Insert – 
 *	DeQueue – 
 *	PrintPriorityQueue –
