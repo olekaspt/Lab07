@@ -17,7 +17,8 @@ For this lab you will either make a MaxPriorityQueue or MinPriorityQueue.  I don
 2.	The following Methods should be on the class.  And make them pure virtual.
 *	Insert – This will add an item to the priority queue
 *	DeQueue – This will remove the highest\lowest priority item from the queue 
-*	PrintPriorityQueue – This will print the items in the queue in priority order and return a string representation as well (so it can be used for testing).  
+*	PrintPriorityQueue – This will print the items in the queue in priority order and return a string representation as well (so it can be used for testing).
+         (you can DeQueue everthing one at at time, to get max\min, add value to string, and repeat until it empty) 
 
 You can add more items if you desire - an IsEmpty seems like a good addition :)
 
